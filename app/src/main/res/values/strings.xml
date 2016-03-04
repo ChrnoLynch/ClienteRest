@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProyectoRest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="open_weather_maps_app_id">11111</string>
+
+    <string name="Sincronizar"></string>
+    <string name="Añadir"></string>
+    <string name="tipo">Tipo</string>
+    <string name="prof">Profesor</string>
+    <string name="lugarIni">Lugar inicio</string>
+    <string name="lugarFin">Lugar fin</string>
+    <string name="desc">Descripcion</string>
+    <string name="fechaIni">Fecha inicio</string>
+    <string name="fechaFin">Fecha Fin</string>
+
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="excursion">Excursion</string>
+    <string name="extraescolar">Extraescolar</string>
+    <string name="complementaria">Complementaria</string>
+
+    <string name="alert">¿Estas seguro de borrar la actividad?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+
+
+</resources>
